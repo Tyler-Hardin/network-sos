@@ -1,5 +1,5 @@
 A multiuser server and client for SOS (basically tick tack toe with a configurable-sized board and 
-points).
+points). Project #3 from Dr. Kreahling's networking class of Fall '14.
 
 The interesting constraint for this project was that the client and server must use the same class
 to interface with the network. All message sending and receiving code must be in the Session class, 
