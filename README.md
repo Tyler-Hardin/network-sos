@@ -7,6 +7,6 @@ which also handles message passing (in the code sense) to alert the server or cl
 recieving a message (network sense).
 
 Note to Dr. Kreahling: I changed the names of a few things. MultiuserSos* is renamed Sos*, since 
-we're only doing a multiuser version (and not a single user one), it's redundant. Given the length 
-of "Multiuser", it saves a lot of typing to get rid of it. NetworkInterface is renamed Session, 
-because that better describes the functionality of the class, IMHO.
+we're only doing a multiuser version, it's redundant. Given the length  of "Multiuser", it saves 
+a lot of typing to get rid of it. NetworkInterface is renamed Session, because that better 
+describes the functionality of the class, IMHO.
